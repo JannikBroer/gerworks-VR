@@ -8,4 +8,4 @@ you need to download [OpenTrack](https://github.com/opentrack/opentrack/releases
 
 
 Products used with this config:
-[Arduino Micro](https://www.aliexpress.com/item/1005001706390728.html) , [Girosensot](https://www.aliexpress.com/item/32761922595.html) , [Infrared LED](https://www.aliexpress.com/item/1005002655434560.html) , [Display](https://www.aliexpress.com/item/32884621131.html) , [Case](https://www.aliexpress.com/item/1005002549285047.html)
+[Arduino Micro](https://www.aliexpress.com/item/1005001706390728.html) , [Girosensot](https://www.aliexpress.com/item/32761922595.html) , [Infrared LED](https://www.aliexpress.com/item/1005002655434560.html) , [Display](https://www.aliexpress.com/item/32884621131.html) , [Case](https://www.aliexpress.com/item/1005002549285047.html) = 88,33€
