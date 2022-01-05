@@ -22,6 +22,29 @@ PIN 2   -> INT
 ```
 now you can install the firmware.ino
 
+
+In case you are using a different board, the process to get the right values is as below:
+
+1.	Plug your board in
+
+2.	Select your board in Arduino IDE and click Tools/Get Board info. you will see something like this:
+
+```
+	BN: Arduino Due (Native USB Port)
+	VID: 2341
+	PID: 003e
+	SN: HIDHB
+```
+3.	Make note of the VID and PID numbers. These are hexadecimal values.
+
+	To apply them to the config, they need to be converted to int.
+	
+	If you are unsure how to do that, there is plenty online converters available.
+	
+	Such as: https://www.rapidtables.com/convert/number/hex-to-decimal.html
+
+4.	Change your hmdPid and hmdVid values to the converted values.
+
 ### Steam Setup
 
 1. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
