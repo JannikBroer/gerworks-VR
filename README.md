@@ -25,4 +25,4 @@ now you can install the firmware.ino
 ### Steam Setup
 
 1. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
-2. Unpack SteamVR FreeTrack or UDP driver to folder "...\Steam\steamapps\common\SteamVR\drivers" (both are supported in OpenTrack, I recommend using FreeTrack). If necessary, configure the settings in the configuration file "...\Steam\steamapps\common\SteamVR\drivers\opentrack\resources\settings\default.vrsettings".
+2. Copy the gerworksvr driver to "...\Steam\steamapps\common\SteamVR\drivers"
