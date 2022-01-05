@@ -53,5 +53,7 @@ In case you are using a different board, the process to get the right values is 
 ### Opentrack 
 
 1.Start Opentrack choose your tracking method (in this case PointTracker 1.1) and click on the litle hamer icon and configure it.
+</br>
 2.Set Output to freetrack 2.0 Enhanced and under Filter leave it blank, now click on START 
+</br>
 3. THATS IT 
