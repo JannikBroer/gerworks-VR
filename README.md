@@ -4,7 +4,7 @@ Open Source VR Headset
 This Projekt is based on Relativty
 and Opentrack
 
-look [info.md](https://github.com/JannikBroer/gerworks-VR/edit/main/info.md)
+look [info.md](https://github.com/JannikBroer/gerworks-VR/blob/main/info.md)
 
 Products used with this config:
 [Arduino Micro](https://www.aliexpress.com/item/1005001706390728.html) , [Girosensot](https://www.aliexpress.com/item/32761922595.html) , [Infrared LED](https://www.aliexpress.com/item/1005002655434560.html) , [Display](https://www.aliexpress.com/item/32884621131.html) , [Case](https://www.aliexpress.com/item/1005002549285047.html) = 88,33€
