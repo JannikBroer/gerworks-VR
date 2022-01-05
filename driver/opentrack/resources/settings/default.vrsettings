@@ -1,0 +1,27 @@
+{
+   "opentrack" : {
+      "DebugMode" : false,
+      "DistanceBetweenEyes" : 0,
+      "DistortionK1" : 0.91,
+      "DistortionK2" : 0.93,
+      "ScreenOffsetX" : 0,
+      "ZoomHeight" : 0.8,
+      "ZoomWidth" : 0.8,
+      "FOV" : 57.296,
+      "displayFrequency" : 60,
+      "renderHeight" : 1080,
+      "renderWidth" : 1920,
+      "secondsFromVsyncToPhotons" : 0.004999999888241291,
+      "serialNumber" : "1001",
+      "windowHeight" : 1080,
+      "windowWidth" : 1920,
+      "windowX" : 1920,
+      "windowY" : 0,
+      "startTrackingServer" : false,
+      "hmdPid" : 9,
+      "hmdVid": 4617,
+      "hmdIMUdmpPackets":  true,
+      "IsDisplayRealDisplay" : true,
+      "IsDisplayOnDesktop" : true
+   }
+}
