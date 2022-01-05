@@ -50,7 +50,7 @@ In case you are using a different board, the process to get the right values is 
 ### Steam Setup
 
 1. Install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/).
-2. Copy the gerworksvr driver to "...\Steam\steamapps\common\SteamVR\drivers"
+2. Copy the driver/opentrack driver to "...\Steam\steamapps\common\SteamVR\drivers"
 
 ### Opentrack 
 
