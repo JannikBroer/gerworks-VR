@@ -2,6 +2,7 @@
 Selbstgemachtes Vr-headset für ~100€
 Tracking wird ermöglicht durch 1 Girosensor und 3 infrarot Leds 
 Das Projekt basiert auf Relativty und Opentrack und benutzt ein abgeänderten OpenVR Treiber
+
 **!! Dieses Projekt ist ein Schulprojekt, kein Support !!**
 ## Support 
 Findest du das Projekt cool Supporte mich [ [hier](https://bunq.me/gerworks) ]
