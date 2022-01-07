@@ -19,7 +19,7 @@ Findest du das Projekt cool Supporte mich [ [hier](https://bunq.me/gerworks) ]
 | [MPU-6050](https://www.aliexpress.com/item/32761922595.html) | 1,19 € |
 | [Arduino](https://www.aliexpress.com/item/1005001706390728.html) | 4,33 € |
 | [VR Headset](https://www.aliexpress.com/item/1005002549285047.html) | 41,32 € |
-| [Driver Setup](https://bunq.me/gerworks) | 1 € (Bald Verfügbar) |
+| [Driver Setup](https://bunq.me/gerworks) | 3 € |
 ## Setup vom Arduino
 Anschließen vom MPU-6050:
 ```
