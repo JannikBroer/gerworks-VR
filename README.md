@@ -40,6 +40,7 @@ Dies kannst du auf dieser Seite machen [ [hier](https://www.rapidtables.com/conv
 
 ## Setup SteamVR
 ***!!Hierfür brauchst du den Treiber aus der Bestelliste!!***
+
 Starte gerworks-setup.exe trage deine Dezimal *VID* und *PID* info in die vorgesehenen Felder ein und
 klicke auf speichern .
 ## Opentrack setup
