@@ -24,7 +24,7 @@ Findest du das Projekt cool Supporte mich [ [hier](https://bunq.me/gerworks) ]
 Anschließen vom MPU-6050:
 
 ```
-5V      -> VCC  
+VCC      -> VCC  
 GND     -> GND  
 SDA(20) -> SDA  
 SCL(21) -> SCL  
