@@ -1,6 +1,6 @@
 # gerworks VR
 
-Selbstgemachtes Vr-headset für \~100€ Tracking wird ermöglicht durch 1 Girosensor und 3 infrarot Leds Das Projekt basiert auf Relativty und Opentrack und benutzt ein abgeänderten OpenVR Treiber
+Selbstgemachtes Vr-headset für \~100€ Tracking wird ermöglicht durch 1 Girosensor und optional 3 infrarot Leds Das Projekt basiert auf Relativty und Opentrack und benutzt ein abgeänderten Relativty Treiber
 
 **!! Dieses Projekt ist ein Schulprojekt, kein Support !!**
 
@@ -31,16 +31,16 @@ Anschließen vom MPU-6050:
 ```
 VCC     -> VCC  
 GND     -> GND  
-SDA(20) -> SDA  
-SCL(21) -> SCL  
-PIN 2   -> INT  
+SDA(2) -> SDA  
+SCL(3) -> SCL  
+PIN 10  -> INT  
 ```
 
 Danach kann die Firmware über die Arduino IDE übertragen werden Diese liegt in Firmware/[Firmware.ino](https://raw.githubusercontent.com/JannikBroer/gerworks-VR/main/firmware/firmware.ino) und in der Arduino IDE geh auf **Werkzeuge -> Boardinformarionen holen** und Notiere :
 
 ```
 VID: 2341
-PID: 003e
+PID: 8036
 ```
 
 Diese Informationen sind in Hexadezimal angegeben, wir benötigen die aber als Dezimal Dies kannst du auf dieser Seite machen [ [hier](https://www.rapidtables.com/convert/number/hex-to-decimal.html) ]
@@ -49,7 +49,9 @@ Diese Informationen sind in Hexadezimal angegeben, wir benötigen die aber als D
 
 ***!!Hierfür brauchst du den Treiber aus der Bestelliste!!***
 
-Starte gerworks-setup.exe trage deine Dezimal *VID* und *PID* info in die vorgesehenen Felder ein und klicke auf speichern .
+![](https://raw.githubusercontent.com/JannikBroer/gerworks-VR/main/doku_extras/Driver-Beschriftet.PNG)
+
+Starte driver.exe trage deine Dezimal *VID* und *PID* info in die vorgesehenen Felder ein wähle die Auflösung deines Hauptbildschirmes und klicke auf speichern 
 
 ## Fertig
 
