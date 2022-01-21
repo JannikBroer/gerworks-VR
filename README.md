@@ -14,15 +14,14 @@ Findest du das Projekt cool Supporte mich [ [hier](https://bunq.me/gerworks) ]
 
 ## Benötigte Teile
 
-| Bauteil | Preis |\
-|--|--|\
-| [Display](https://www.aliexpress.com/item/4000976201829.html) | 55,10 € |\
-| [LED](https://www.aliexpress.com/item/1005002655434560.html) | 0,77 € |\
-| [MPU-6050](https://www.aliexpress.com/item/32761922595.html) | 1,19 € |\
-| [Arduino](https://www.aliexpress.com/item/1005001706390728.html) | 4,33 € |\
-| [VR Headset](https://www.aliexpress.com/item/1005002549285047.html) | 41,32 € |\
-| [Driver](https://github.com/JannikBroer/gerworks-VR/releases/download/diy/Driver.exe) | 3 € |
-
+| Bauteil | Preis |    
+|--|--|
+| [Display](https://www.aliexpress.com/item/4000976201829.html) | 55,10 € |
+| [LED](https://www.aliexpress.com/item/1005002655434560.html) | 0,77 € |
+| [MPU-6050](https://www.aliexpress.com/item/32761922595.html) | 1,19 € |
+| [Arduino](https://www.aliexpress.com/item/1005001706390728.html) | 4,33 € |
+| [VR Headset](https://www.aliexpress.com/item/1005002549285047.html) | 41,32 € |
+| [Driver Setup](https://bunq.me/gerworks) | 1 € (Bald Verfügbar) |
 
 
 ## Setup vom Arduino
