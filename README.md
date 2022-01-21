@@ -26,6 +26,8 @@ Findest du das Projekt cool Supporte mich [ [hier](https://bunq.me/gerworks) ]
 
 ## Setup vom Arduino
 
+![](https://raw.githubusercontent.com/JannikBroer/gerworks-VR/main/doku_extras/Untitled_Diagram.drawio.png)
+
 Anschließen vom MPU-6050:
 
 ```
