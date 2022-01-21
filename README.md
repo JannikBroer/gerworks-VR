@@ -51,7 +51,12 @@ Diese Informationen sind in Hexadezimal angegeben, wir benötigen die aber als D
 
 ![](https://raw.githubusercontent.com/JannikBroer/gerworks-VR/main/doku_extras/Driver-Beschriftet.PNG)
 
-Starte driver.exe trage deine Dezimal *VID* und *PID* info in die vorgesehenen Felder ein wähle die Auflösung deines Hauptbildschirmes und klicke auf speichern 
+Starte driver.exe trage deine Dezimal *VID* und *PID* info in die vorgesehenen Felder ein wähle die Auflösung
+deines Hauptbildschirmes und klicke auf Driver erstellen.
+Nun siehst du auf der Rechten seite den code für den Treiber, und instrallire diesen mit Driver installieren
+```
+Steampath: "C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\Relativty"
+```
 
 ## Fertig
 
